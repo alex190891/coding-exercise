@@ -13,7 +13,7 @@ It is assumed that the connectors and the values are atleast delimited by a sing
 
 'And', 'Or' cannot be used as values since they are connectors.
 
-The API (Port : 8000) can be accessed as follow:
+The API (Port : 8000) can be accessed as follows:
 http://localhost:8000/?input=>400and <500 or >600
 
 The Output is prompted back onto the browser.
